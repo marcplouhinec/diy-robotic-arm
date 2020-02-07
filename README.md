@@ -39,6 +39,11 @@ The following parts are assembled in order to replace the original electronic bo
 * A voltage conversion board 12V to 5V to 3.3V [BENQ CA-1253](https://www.aliexpress.com/item/32790146418.html).
 
 In order to assemble all these boards, I have designed [this PCB with EasyEDA](https://easyeda.com/marcpl/pybot-alt-board).
+> Note: if you are in China, you can order your PCB from [the Chinese website of EasyEDA](https://www.sz-jlc.com/).
+
+Here is the [schematic](pcb/Schematic_pybot-alt-board_Motherboard_20200206205559.pdf),
+[PCB design](pcb/PCB_PCB_2020-01-18%2000-25-08_20200206205948.pdf) and the
+[Gerber files](pcb/Gerber_PCB_2020-01-18%2000-25-08_20200206205446.zip).
 
 ## External links
 * [Tutorial about how to control a stepper motor with an Arduino and an A4988 driver](https://howtomechatronics.com/tutorials/arduino/how-to-control-stepper-motor-with-a4988-driver-and-arduino/)
